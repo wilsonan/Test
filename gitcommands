@@ -1,0 +1,20 @@
+init
+git init is used to create repository
+
+status
+git status tells us the state of our working directory
+
+add 
+git add tells git to track specific files or folders
+
+ignoring things
+.gitignore files tell git what to completely ignore.
+
+commit logs
+git log shows us all the commits that were made
+
+git log --oneline shows a summary of all commits
+
+Diffs
+git diff <old commit> <new commit> gives the difference between two commits
+
